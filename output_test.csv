@@ -1,0 +1,841 @@
+country,job_title,company_name,company_url,location,benefit,posted,company_description,job_url,job_description
+spain,Machine Learning Engineer - LiveOps Automation,Scopely,https://www.linkedin.com/company/scopely?trk=public_jobs_jserp-result_job-search-card-subtitle,Spain,,,"Scopely is looking for a
+Machine Learning Engineer
+to join our LiveOps Automation team in Spain on a remote basis.
+At Scopely, we care deeply about what we do and want to inspire play every day - whether in our work environments alongside our talented colleagues or through our deep connections with our communities of players. We are a global team of game lovers who are developing, publishing and innovating the mobile games industry, connecting millions of people worldwide daily.
+The LiveOps Automation team builds a suite of ML powered tools to enhance player experiences across Scopely’s Live Games Portfolio. This initiative has a long term impact on how games are operated, how game economies are balanced, and the experience of millions of daily active players.
+What You Will Do
+In The LiveOps Automation Team, You Will
+Gain an understanding of how games operate, how they are designed, and how they keep their audience engaged over time.
+Support ML projects end-to-end: from business requirements with stakeholders to technical specs, solution design/validation, data modeling, algorithmic/ML, prototyping, A/B testing, deployment, monitoring, and iteration.
+Transform and analyze player data to validate assumptions, understand user behaviour, and develop algorithmic/ML solutions.
+Work together, as one team: communicate clearly, ask for help early, and proactively support others.
+Collaborate with MLEs, Engineering Managers, and Product Managers to implement improvements across the team and portfolio.
+Build and maintain cloud-native infrastructure for model training and serving.
+Implement tools that empower LiveOps and Game Design teams to create new and exciting gameplay experiences.
+Support and troubleshoot the LiveOps Automation tool suite.
+What We're Looking For
+We are looking for a creative and highly motivated ML Engineer with experience in most of the following areas:
+Proactive, creative problem-solver: you enjoy tackling ambiguous problems and “figuring it out” with practical solutions.
+Strong team player: You collaborate openly, share context, and help others succeed.
+Hands-on experience implementing solutions using algorithms, heuristics, machine learning, and analytical approaches.
+Pragmatic engineering mindset: you know when to take shortcuts, and that done is better than perfect.
+Strong technical background: engineering, computer science, machine learning, mathematics, statistics, or equivalent.
+Strong coding skills in at least one mainstream language (Python, Java, C++)
+Bonus Points
+Experience in the gaming industry.
+Experience with Airflow and dbt.
+Experience in A/B testing (design, analysis, guardrails, pre-test bias, significance), causal inference, and Bayesian statistics.
+Experience delivering ML products (batch and real-time serving, monitoring, alerting, automated unit, integration, and end-to-end tests).
+Experience with a major cloud provider (AWS / Azure / GCP).
+Please ensure that the résumé/CV you attach is written in English.
+About Scopely
+Scopely is a leading video game and global interactive entertainment company, home to many of the world’s most beloved and enduring experiences, including two of the most successful mobile games of all-time “MONOPOLY GO!” and “Pokémon GO,” along with “Stumble Guys,” “Star Trek™ Fleet Command,” “MARVEL Strike Force,” “WWE Champions,” the Scrabble® franchise, “Yahtzee® With Buddies,” and many others. Across mobile, web, PC, and console, Scopely creates, develops, publishes, and live-operates one of the most diversified and award-winning portfolios in the games industry — bringing hundreds of millions of players together through a shared love of play.
+Founded in 2011, Scopely is powered by its exceptional team — including thousands of world-class gamemakers around the globe, a distinctive tenet-driven culture, and its proprietary technology platform, Playgami. Together, these strengths have fueled Scopely’s position as the #1 mobile games company in the U.S. and #2 globally, generating more than $10 billion in lifetime revenue. Whether building global sensations like “MONOPOLY GO!” from the ground up, or expanding through strategic acquisitions, including the FoxNext, GSN, and Niantic games businesses — Scopely consistently delivers experiences players love today and return to for years to come.
+Recognized multiple times as one of the ""100 Most Influential Companies in the World"" by TIME magazine and one of Fast Company's ""World's Most Innovative Companies"" and “Best Workplaces for Innovators,” Scopely believes that video games can be a force for good — creating meaningful connections, vibrant communities, and making life better through play.
+Scopely has global operations and partners across four continents in more than a dozen countries worldwide. For more information, visit: https://www.scopely.com/.",https://es.linkedin.com/jobs/view/machine-learning-engineer-liveops-automation-at-scopely-4377012744?position=1&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=Ge7I75UcyO6D9QhyR0F6IQ%3D%3D,"Scopely is looking for a
+Machine Learning Engineer
+to join our LiveOps Automation team in Spain on a remote basis.
+At Scopely, we care deeply about what we do and want to inspire play every day - whether in our work environments alongside our talented colleagues or through our deep connections with our communities of players. We are a global team of game lovers who are developing, publishing and innovating the mobile games industry, connecting millions of people worldwide daily.
+The LiveOps Automation team builds a suite of ML powered tools to enhance player experiences across Scopely’s Live Games Portfolio. This initiative has a long term impact on how games are operated, how game economies are balanced, and the experience of millions of daily active players.
+What You Will Do
+In The LiveOps Automation Team, You Will
+Gain an understanding of how games operate, how they are designed, and how they keep their audience engaged over time.
+Support ML projects end-to-end: from business requirements with stakeholders to technical specs, solution design/validation, data modeling, algorithmic/ML, prototyping, A/B testing, deployment, monitoring, and iteration.
+Transform and analyze player data to validate assumptions, understand user behaviour, and develop algorithmic/ML solutions.
+Work together, as one team: communicate clearly, ask for help early, and proactively support others.
+Collaborate with MLEs, Engineering Managers, and Product Managers to implement improvements across the team and portfolio.
+Build and maintain cloud-native infrastructure for model training and serving.
+Implement tools that empower LiveOps and Game Design teams to create new and exciting gameplay experiences.
+Support and troubleshoot the LiveOps Automation tool suite.
+What We're Looking For
+We are looking for a creative and highly motivated ML Engineer with experience in most of the following areas:
+Proactive, creative problem-solver: you enjoy tackling ambiguous problems and “figuring it out” with practical solutions.
+Strong team player: You collaborate openly, share context, and help others succeed.
+Hands-on experience implementing solutions using algorithms, heuristics, machine learning, and analytical approaches.
+Pragmatic engineering mindset: you know when to take shortcuts, and that done is better than perfect.
+Strong technical background: engineering, computer science, machine learning, mathematics, statistics, or equivalent.
+Strong coding skills in at least one mainstream language (Python, Java, C++)
+Bonus Points
+Experience in the gaming industry.
+Experience with Airflow and dbt.
+Experience in A/B testing (design, analysis, guardrails, pre-test bias, significance), causal inference, and Bayesian statistics.
+Experience delivering ML products (batch and real-time serving, monitoring, alerting, automated unit, integration, and end-to-end tests).
+Experience with a major cloud provider (AWS / Azure / GCP).
+Please ensure that the résumé/CV you attach is written in English.
+About Scopely
+Scopely is a leading video game and global interactive entertainment company, home to many of the world’s most beloved and enduring experiences, including two of the most successful mobile games of all-time “MONOPOLY GO!” and “Pokémon GO,” along with “Stumble Guys,” “Star Trek™ Fleet Command,” “MARVEL Strike Force,” “WWE Champions,” the Scrabble® franchise, “Yahtzee® With Buddies,” and many others. Across mobile, web, PC, and console, Scopely creates, develops, publishes, and live-operates one of the most diversified and award-winning portfolios in the games industry — bringing hundreds of millions of players together through a shared love of play.
+Founded in 2011, Scopely is powered by its exceptional team — including thousands of world-class gamemakers around the globe, a distinctive tenet-driven culture, and its proprietary technology platform, Playgami. Together, these strengths have fueled Scopely’s position as the #1 mobile games company in the U.S. and #2 globally, generating more than $10 billion in lifetime revenue. Whether building global sensations like “MONOPOLY GO!” from the ground up, or expanding through strategic acquisitions, including the FoxNext, GSN, and Niantic games businesses — Scopely consistently delivers experiences players love today and return to for years to come.
+Recognized multiple times as one of the ""100 Most Influential Companies in the World"" by TIME magazine and one of Fast Company's ""World's Most Innovative Companies"" and “Best Workplaces for Innovators,” Scopely believes that video games can be a force for good — creating meaningful connections, vibrant communities, and making life better through play.
+Scopely has global operations and partners across four continents in more than a dozen countries worldwide. For more information, visit: https://www.scopely.com/.
+Show more
+Show less"
+spain,Software Engineer (Frontend),Revolut,https://uk.linkedin.com/company/revolut?trk=public_jobs_jserp-result_job-search-card-subtitle,Spain,,,"About Revolut
+People deserve more from their money. More visibility, more control, and more freedom. Since 2015, Revolut has been on a mission to deliver just that. Our powerhouse of products — including spending, saving, investing, exchanging, travelling, and more — help our 70+ million customers get more from their money every day.
+As we continue our lightning-fast growth,‌ 2 things are essential to our success: our people and our culture. In recognition of our outstanding employee experience, we've been certified as a Great Place to Work™. So far, we have 13,000+ people working around the world, from our offices and remotely, to help us achieve our mission. And we're looking for more brilliant people. People who love building great products, redefining success, and turning the complexity of a chaotic world into the simplicity of a beautiful solution.
+About The Role
+Our Technology team builds the systems and experiences that keep Revolut moving. From the infrastructure behind our innovative app to the features used by millions of people around the world, they bring sharp thinking, speed, and a focus on meaningful impact to everything they do.
+We’re looking for a Frontend Engineer with a passion for web technologies and design who wants to bring our products to life and deliver seamless experiences for our customers.
+Up to shape what's next in finance? Let's get in touch.
+What You’ll Be Doing
+Collaborating closely with Product Designers, focusing on new feature design and prototyping
+Being involved in the user experience design process, from wireframes and mockups through implementation and release
+Defining and implementing elegant solutions to interesting problems
+Helping design and maintain visual guidelines, ensuring consistency throughout the app
+Prototyping new user interactions and iterations based on feedback from peers
+What You'll Need
+A solid understanding of modern JavaScript (ESNext), Typescript, and browser APIs
+Proficiency with ReactJS and its ecosystem, styled components, and Webpack module bundler
+Knowledge of how software is developed, including code quality principles and testing techniques
+Experience collaborating on software projects with design and backend aspects
+Quick-learning skills with an ambitious and results-driven personality
+Excellent communication and organisational skills
+The ability to work well as part of a global team in a fast-paced environment
+Fluency in English
+Nice to have
+A GitHub account with projects to share
+Impressive debugging skills
+Experience developing responsive mobile-first websites
+Building a global financial super app isn’t enough. Our Revoluters are a priority, and that’s why in 2021 we launched our inaugural D&I Framework, designed to help us thrive and grow everyday. We're not just doing this because it's the right thing to do. We’re doing it because we know that seeking out diverse talent and creating an inclusive workplace is the way to create exceptional, innovative products and services for our customers. That’s why we encourage applications from people with diverse backgrounds and experiences to join this multicultural, hard-working team.
+Important notice for candidates:
+Job scams are on the rise. Please keep these guidelines in mind when applying for any open roles.
+Only apply through official Revolut channels. We don’t use any third-party services or platforms for our recruitment.
+Always double-check the emails you receive. Make sure all communications are being done through official Revolut emails, with an @revolut.com domain.
+We won't ask for payment or personal financial information during the hiring process.
+If anyone does ask you for this, it’s a scam. Report it immediately.
+By submitting this application, I confirm that all the information given by me in this application for employment and any additional documents attached hereto are true to the best of my knowledge and that I have not wilfully suppressed any material fact. I confirm I have disclosed if applicable any previous employment with Revolut. I accept that if any of the information given by me in this application is in any way false or incorrect, my application may be rejected, any offer of employment may be withdrawn or my employment with Revolut may be terminated summarily or I may be dismissed. By submitting this application, I agree that my personal data will be processed in accordance with Revolut's Candidate Privacy Notice",https://es.linkedin.com/jobs/view/software-engineer-frontend-at-revolut-4316496442?position=2&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=eChxeboknp2e2l%2BG2dF5Lg%3D%3D,"About Revolut
+People deserve more from their money. More visibility, more control, and more freedom. Since 2015, Revolut has been on a mission to deliver just that. Our powerhouse of products — including spending, saving, investing, exchanging, travelling, and more — help our 70+ million customers get more from their money every day.
+As we continue our lightning-fast growth,‌ 2 things are essential to our success: our people and our culture. In recognition of our outstanding employee experience, we've been certified as a Great Place to Work™. So far, we have 13,000+ people working around the world, from our offices and remotely, to help us achieve our mission. And we're looking for more brilliant people. People who love building great products, redefining success, and turning the complexity of a chaotic world into the simplicity of a beautiful solution.
+About The Role
+Our Technology team builds the systems and experiences that keep Revolut moving. From the infrastructure behind our innovative app to the features used by millions of people around the world, they bring sharp thinking, speed, and a focus on meaningful impact to everything they do.
+We’re looking for a Frontend Engineer with a passion for web technologies and design who wants to bring our products to life and deliver seamless experiences for our customers.
+Up to shape what's next in finance? Let's get in touch.
+What You’ll Be Doing
+Collaborating closely with Product Designers, focusing on new feature design and prototyping
+Being involved in the user experience design process, from wireframes and mockups through implementation and release
+Defining and implementing elegant solutions to interesting problems
+Helping design and maintain visual guidelines, ensuring consistency throughout the app
+Prototyping new user interactions and iterations based on feedback from peers
+What You'll Need
+A solid understanding of modern JavaScript (ESNext), Typescript, and browser APIs
+Proficiency with ReactJS and its ecosystem, styled components, and Webpack module bundler
+Knowledge of how software is developed, including code quality principles and testing techniques
+Experience collaborating on software projects with design and backend aspects
+Quick-learning skills with an ambitious and results-driven personality
+Excellent communication and organisational skills
+The ability to work well as part of a global team in a fast-paced environment
+Fluency in English
+Nice to have
+A GitHub account with projects to share
+Impressive debugging skills
+Experience developing responsive mobile-first websites
+Building a global financial super app isn’t enough. Our Revoluters are a priority, and that’s why in 2021 we launched our inaugural D&I Framework, designed to help us thrive and grow everyday. We're not just doing this because it's the right thing to do. We’re doing it because we know that seeking out diverse talent and creating an inclusive workplace is the way to create exceptional, innovative products and services for our customers. That’s why we encourage applications from people with diverse backgrounds and experiences to join this multicultural, hard-working team.
+Important notice for candidates:
+Job scams are on the rise. Please keep these guidelines in mind when applying for any open roles.
+Only apply through official Revolut channels. We don’t use any third-party services or platforms for our recruitment.
+Always double-check the emails you receive. Make sure all communications are being done through official Revolut emails, with an @revolut.com domain.
+We won't ask for payment or personal financial information during the hiring process.
+If anyone does ask you for this, it’s a scam. Report it immediately.
+By submitting this application, I confirm that all the information given by me in this application for employment and any additional documents attached hereto are true to the best of my knowledge and that I have not wilfully suppressed any material fact. I confirm I have disclosed if applicable any previous employment with Revolut. I accept that if any of the information given by me in this application is in any way false or incorrect, my application may be rejected, any offer of employment may be withdrawn or my employment with Revolut may be terminated summarily or I may be dismissed. By submitting this application, I agree that my personal data will be processed in accordance with Revolut's Candidate Privacy Notice
+Show more
+Show less"
+spain,"Software Engineer, Integrations",Topsort,https://www.linkedin.com/company/topsort?trk=public_jobs_jserp-result_job-search-card-subtitle,Spain,Be an early applicant,,"We're quickly growing and super excited for you to join us!
+About Topsort
+At Topsort, we believe in the mission of democratizing the secret technologies of the walled gardens and creating a privacy-first cookie-free world of clean advertising with modern tech, friendly products, and AI. We believe in making advertising intuitive, intelligent, and genuinely cool, without any of the creepy ads or cookie-obsession (well, maybe just the chocolate ones). In a rapidly changing industry, we're on a mission to democratize monetization access for all and ensure that advertising doesn't leave any brand or seller feeling confused or overwhelmed
+Today, Topsort has 6 major hubs worldwide, and employees in 13+ countries, including Menlo Park, Boston, Santiago Chile, Sao Paulo Brazil, Barcelona Spain, and Sydney Australia. We are a truly global company that was born in the pandemic that’s had rapid growth since out of a genius product, a customer-first mentality, and a hardworking team of talented individuals. Since our founding in 2021, we’ve gained customers in retail, marketplaces, and delivery apps in 40+ countries and quickly approaching the #1 position in the industry.
+Do you enjoy a fast-paced environment? Do you like seeing your work create real-time impact, being part of a rocket ship from the very beginning? Let’s do the unimaginable - let’s make ads clean and cool again, with AI and modern technology.
+Why Topsort? Why now?
+Topsort is changing the way Retail Media works. By joining our scaling team, you'll feel your impact from day 1. The processes and messaging you build today will be a critical part of our foundation as we accelerate toward 200 Topsorters worldwide, and your innovations will leave a lasting mark on the industry, as a whole. Retail Media is on the verge of a new era, and Topsort is gathering the ecosystem together to shape a brighter future. Joining us now, you'll work directly alongside our co-founders and founding members to bring on Retail Media 3.0. If you're looking to define your career as something greater than yourself, come scale with us.
+What it’s like to work at Topsort
+At Topsort, we communicate openly and move fast. We say things as they are, challenge each other early, and embrace feedback with curiosity—it’s how we build better, faster. Every experiment has a purpose, and every outcome helps us make the next decision smarter. There’s no single formula for success here; we find what works, improve it, and scale it.
+We’re collaborative internally and competitive externally—never the other way around. The pace is quick, sometimes a 100-mph kind of fast, and that’s what keeps it exciting. We act with intent, lift each other up, and turn bold ideas into real results. No endless meetings here—if it can be done today, it gets done today.
+About the Role:
+We are looking for a hands-on and client-facing
+Software Engineers, Integrations
+focused to join our team at Topsort. In this role, you will play a pivotal part in translating real-world business needs into powerful, scalable product solutions. You’ll collaborate directly with sales, product, and engineering teams to support Pre-sales conversations - partner with sales to understand customer pain points, lead technical implementations with Topsort.
+You will:
+Engage with Prospects & Clients: Work closely with the sales and customer success teams to understand client requirements and propose tailored technical solutions.
+Own Technical Discovery & Demos: Lead technical conversations and run product demonstrations that align our platform’s capabilities with customer needs.
+Solution Design: Translate business challenges into feasible product configurations, data integrations, and implementation plans.
+Support RFPs and Security Questionnaires: Respond to technical and compliance-related questions in RFPs and trust questionnaires.
+Own the entire integration process – You won’t just be following instructions; you’ll be leading integrations end-to-end, solving complex challenges, and acting as a trusted technical advisor to our clients.
+Be the bridge between tech & customer success – Work directly with clients, engineers, and product teams to deeply understand their needs and ensure seamless API integrations. Your solutions won’t just be functional—they’ll be impactful and user-friendly, strengthening long-term customer relationships.
+What We Think You Need to Be Successful
+We’re open to candidates who don’t check every box but show strong potential.
+Core Requirements & Experience
+Industry Experience: 1+ years in software development, managing integrations, APIs, system interoperability, or ad tech is a plus. etc.
+API Expertise: Strong experience with
+RESTful APIs, authentication methods (OAuth), and data formats (JSON, XML).
+Proven ability to communicate complex technical ideas clearly to both technical and non-technical audiences.
+Demonstrated success working directly with enterprise clients, understanding their operational realities and constraints.
+Comfortable navigating ambiguity and making decisions with incomplete information.
+Clear sense of ownership — you lead the solution from pre-sales design through implementation and post-sale success.
+Experience collaborating with product and engineering teams to shape customer-driven roadmaps.
+Bachelor’s degree and above in
+Computer Science, Engineering, or related field from a top school.
+CRM & Platforms: Familiarity with customer relationship management (CRM) tools and integration platforms.
+Communication & Stakeholder Management:  Strong ability to interact with both
+technical and non-technical audiences
+, translating complex concepts into actionable insights.
+What We Value
+At Topsort, we seek professionals who embody the following qualities to drive our mission forward:
+Deep dive into details:
+Professionals who are not content with superficial answers and dive deeply into the details to uncover root causes and optimal solutions.
+Team first:
+A low need for individual recognition, always prioritizing collective results over personal credit.
+You thrive with ambiguity:
+Exceptional ability to tackle open-ended problems in unstructured environments, turning chaos into structured innovation.
+Adaptability:
+Willingness to learn, mentor, lead, and follow as the situation demands, fostering growth at all levels.
+Urgency:
+A disproportionate sense of urgency in execution, while keeping scalability and the creation of replicable processes in mind to ensure long-term success.
+Curiosity:
+Genuinely curious individuals who can quickly learn difficult concepts and apply them effectively.
+We are proud to be an equal opportunity employer and to foster a workplace where diversity is valued and celebrated. We believe that diverse perspectives and experiences strengthen our teams and drive better outcomes. We respect and value any race, religion, color, national origin, ancestry, caste, gender, gender identity or expression, sexual orientation, age, disability, medical condition, pregnancy, genetic information, marital status, or military service.
+Do you sound like the right fit? Let's dive right in!",https://es.linkedin.com/jobs/view/software-engineer-integrations-at-topsort-4376402475?position=3&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=5JniGjWaRPximOiFD53SiQ%3D%3D,"We're quickly growing and super excited for you to join us!
+About Topsort
+At Topsort, we believe in the mission of democratizing the secret technologies of the walled gardens and creating a privacy-first cookie-free world of clean advertising with modern tech, friendly products, and AI. We believe in making advertising intuitive, intelligent, and genuinely cool, without any of the creepy ads or cookie-obsession (well, maybe just the chocolate ones). In a rapidly changing industry, we're on a mission to democratize monetization access for all and ensure that advertising doesn't leave any brand or seller feeling confused or overwhelmed
+Today, Topsort has 6 major hubs worldwide, and employees in 13+ countries, including Menlo Park, Boston, Santiago Chile, Sao Paulo Brazil, Barcelona Spain, and Sydney Australia. We are a truly global company that was born in the pandemic that’s had rapid growth since out of a genius product, a customer-first mentality, and a hardworking team of talented individuals. Since our founding in 2021, we’ve gained customers in retail, marketplaces, and delivery apps in 40+ countries and quickly approaching the #1 position in the industry.
+Do you enjoy a fast-paced environment? Do you like seeing your work create real-time impact, being part of a rocket ship from the very beginning? Let’s do the unimaginable - let’s make ads clean and cool again, with AI and modern technology.
+Why Topsort? Why now?
+Topsort is changing the way Retail Media works. By joining our scaling team, you'll feel your impact from day 1. The processes and messaging you build today will be a critical part of our foundation as we accelerate toward 200 Topsorters worldwide, and your innovations will leave a lasting mark on the industry, as a whole. Retail Media is on the verge of a new era, and Topsort is gathering the ecosystem together to shape a brighter future. Joining us now, you'll work directly alongside our co-founders and founding members to bring on Retail Media 3.0. If you're looking to define your career as something greater than yourself, come scale with us.
+What it’s like to work at Topsort
+At Topsort, we communicate openly and move fast. We say things as they are, challenge each other early, and embrace feedback with curiosity—it’s how we build better, faster. Every experiment has a purpose, and every outcome helps us make the next decision smarter. There’s no single formula for success here; we find what works, improve it, and scale it.
+We’re collaborative internally and competitive externally—never the other way around. The pace is quick, sometimes a 100-mph kind of fast, and that’s what keeps it exciting. We act with intent, lift each other up, and turn bold ideas into real results. No endless meetings here—if it can be done today, it gets done today.
+About the Role:
+We are looking for a hands-on and client-facing
+Software Engineers, Integrations
+focused to join our team at Topsort. In this role, you will play a pivotal part in translating real-world business needs into powerful, scalable product solutions. You’ll collaborate directly with sales, product, and engineering teams to support Pre-sales conversations - partner with sales to understand customer pain points, lead technical implementations with Topsort.
+You will:
+Engage with Prospects & Clients: Work closely with the sales and customer success teams to understand client requirements and propose tailored technical solutions.
+Own Technical Discovery & Demos: Lead technical conversations and run product demonstrations that align our platform’s capabilities with customer needs.
+Solution Design: Translate business challenges into feasible product configurations, data integrations, and implementation plans.
+Support RFPs and Security Questionnaires: Respond to technical and compliance-related questions in RFPs and trust questionnaires.
+Own the entire integration process – You won’t just be following instructions; you’ll be leading integrations end-to-end, solving complex challenges, and acting as a trusted technical advisor to our clients.
+Be the bridge between tech & customer success – Work directly with clients, engineers, and product teams to deeply understand their needs and ensure seamless API integrations. Your solutions won’t just be functional—they’ll be impactful and user-friendly, strengthening long-term customer relationships.
+What We Think You Need to Be Successful
+We’re open to candidates who don’t check every box but show strong potential.
+Core Requirements & Experience
+Industry Experience: 1+ years in software development, managing integrations, APIs, system interoperability, or ad tech is a plus. etc.
+API Expertise: Strong experience with
+RESTful APIs, authentication methods (OAuth), and data formats (JSON, XML).
+Proven ability to communicate complex technical ideas clearly to both technical and non-technical audiences.
+Demonstrated success working directly with enterprise clients, understanding their operational realities and constraints.
+Comfortable navigating ambiguity and making decisions with incomplete information.
+Clear sense of ownership — you lead the solution from pre-sales design through implementation and post-sale success.
+Experience collaborating with product and engineering teams to shape customer-driven roadmaps.
+Bachelor’s degree and above in
+Computer Science, Engineering, or related field from a top school.
+CRM & Platforms: Familiarity with customer relationship management (CRM) tools and integration platforms.
+Communication & Stakeholder Management:  Strong ability to interact with both
+technical and non-technical audiences
+, translating complex concepts into actionable insights.
+What We Value
+At Topsort, we seek professionals who embody the following qualities to drive our mission forward:
+Deep dive into details:
+Professionals who are not content with superficial answers and dive deeply into the details to uncover root causes and optimal solutions.
+Team first:
+A low need for individual recognition, always prioritizing collective results over personal credit.
+You thrive with ambiguity:
+Exceptional ability to tackle open-ended problems in unstructured environments, turning chaos into structured innovation.
+Adaptability:
+Willingness to learn, mentor, lead, and follow as the situation demands, fostering growth at all levels.
+Urgency:
+A disproportionate sense of urgency in execution, while keeping scalability and the creation of replicable processes in mind to ensure long-term success.
+Curiosity:
+Genuinely curious individuals who can quickly learn difficult concepts and apply them effectively.
+We are proud to be an equal opportunity employer and to foster a workplace where diversity is valued and celebrated. We believe that diverse perspectives and experiences strengthen our teams and drive better outcomes. We respect and value any race, religion, color, national origin, ancestry, caste, gender, gender identity or expression, sexual orientation, age, disability, medical condition, pregnancy, genetic information, marital status, or military service.
+Do you sound like the right fit? Let's dive right in!
+Show more
+Show less"
+spain,Video Game Specialist - Freelance AI Trainer Project,"Meridial Marketplace, by Invisible",https://www.linkedin.com/company/meridial-marketplace?trk=public_jobs_jserp-result_job-search-card-subtitle,Spain,,,"Are you an experienced PC gamer eager to help shape the future of AI? Large-scale language models are expanding beyond text into interactive, AI-generated environments capable of simulating dynamic virtual worlds. With high-quality human feedback, these systems can improve spatial reasoning, objective tracking, responsiveness, and environmental consistency. That training data begins with you—we need your gaming experience to help refine the next generation of AI-driven world models.
+We’re looking for raters based in the US West region with strong PC gaming experience, particularly familiarity with keyboard and mouse controls and standard WASD movement. This project involves interacting directly with an AI-generated world model to navigate environments, complete defined objectives, and evaluate how effectively the system responds to player inputs and in-game scenarios.
+On a typical session, you will navigate through virtual environments, complete structured tasks or objectives, assess world coherence and responsiveness, identify navigation or physics inconsistencies, and document reproducible issues in model behavior. You will provide clear, structured feedback on performance gaps, unexpected behaviors, objective clarity, environmental realism, and interaction smoothness. Attention to detail and the ability to articulate gameplay observations precisely are essential.
+Strong PC gaming experience is required. Familiarity with first-person or third-person navigation using WASD controls is essential. Prior experience in Gaming QA, bug reporting, structured playtesting, or usability testing is a significant plus. Entry-level candidates with strong gaming proficiency and the ability to document observations clearly are encouraged to apply.
+Ready to turn your gaming experience into valuable training data for advanced AI systems? Apply today and help improve interactive AI environments through hands-on evaluation.
+We offer a pay range of $6 to $65 per hour, with the exact rate determined after evaluating your experience, expertise, and geographic location. Final offer amounts may vary from the pay range listed above. As a contractor you’ll supply a secure computer and high-speed internet; company-sponsored benefits such as health insurance and PTO do not apply.
+Job title: Video Game Specialist – Freelance AI Trainer Project
+Employment type: Freelance / Contract
+Workplace type: Remote
+Seniority level: Entry Level",https://es.linkedin.com/jobs/view/video-game-specialist-freelance-ai-trainer-project-at-meridial-marketplace-by-invisible-4377109308?position=4&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=le5o%2BdcJDHEEi%2FXZAuJ9kQ%3D%3D,"Are you an experienced PC gamer eager to help shape the future of AI? Large-scale language models are expanding beyond text into interactive, AI-generated environments capable of simulating dynamic virtual worlds. With high-quality human feedback, these systems can improve spatial reasoning, objective tracking, responsiveness, and environmental consistency. That training data begins with you—we need your gaming experience to help refine the next generation of AI-driven world models.
+We’re looking for raters based in the US West region with strong PC gaming experience, particularly familiarity with keyboard and mouse controls and standard WASD movement. This project involves interacting directly with an AI-generated world model to navigate environments, complete defined objectives, and evaluate how effectively the system responds to player inputs and in-game scenarios.
+On a typical session, you will navigate through virtual environments, complete structured tasks or objectives, assess world coherence and responsiveness, identify navigation or physics inconsistencies, and document reproducible issues in model behavior. You will provide clear, structured feedback on performance gaps, unexpected behaviors, objective clarity, environmental realism, and interaction smoothness. Attention to detail and the ability to articulate gameplay observations precisely are essential.
+Strong PC gaming experience is required. Familiarity with first-person or third-person navigation using WASD controls is essential. Prior experience in Gaming QA, bug reporting, structured playtesting, or usability testing is a significant plus. Entry-level candidates with strong gaming proficiency and the ability to document observations clearly are encouraged to apply.
+Ready to turn your gaming experience into valuable training data for advanced AI systems? Apply today and help improve interactive AI environments through hands-on evaluation.
+We offer a pay range of $6 to $65 per hour, with the exact rate determined after evaluating your experience, expertise, and geographic location. Final offer amounts may vary from the pay range listed above. As a contractor you’ll supply a secure computer and high-speed internet; company-sponsored benefits such as health insurance and PTO do not apply.
+Job title: Video Game Specialist – Freelance AI Trainer Project
+Employment type: Freelance / Contract
+Workplace type: Remote
+Seniority level: Entry Level
+Show more
+Show less"
+spain,QA Engineer,Logicalis Spain,https://es.linkedin.com/company/logicalis-spain?trk=public_jobs_jserp-result_job-search-card-subtitle,"Barcelona, Catalonia, Spain",Be an early applicant,,"En Logicalis Spain buscamos un/a
+QA Engineer
+con experiencia en pruebas de software en entornos modernos y metodologías ágiles. La persona seleccionada participará activamente en equipos
+Agile/Scrum
+, siendo una pieza clave en la definición de criterios de aceptación, ejecución de pruebas, automatización y aseguramiento de la calidad a lo largo del ciclo de desarrollo.
+Responsabilidades
+Diseño y ejecución de pruebas funcionales, de regresión y de rendimiento.
+Automatización de pruebas con herramientas como Playwright, Cypress o Selenium.
+Validación de microservicios, APIs REST y arquitecturas basadas en eventos.
+Testing de sistemas basados en IA generativa, RAG, agentes conversacionales o workflows multiagente.
+Definición de criterios de aceptación y colaboración con equipos de desarrollo.
+Integración de pruebas en pipelines CI/CD.
+Análisis y gestión de defectos.
+Requisitos
+Experiencia en testing de aplicaciones y sistemas distribuidos.
+Conocimientos de Docker, Kubernetes y entornos cloud.
+Experiencia con sistemas de mensajería y flujos asincrónicos.
+Conocimientos en pruebas de carga y rendimiento (Locust, JMeter).
+Pensamiento analítico y atención al detalle.
+Buena comunicación y trabajo en equipo.
+Proactividad y orientación a la mejora continua.
+Qué ofrecemos:
+Logicalis Spain somos un grupo internacional con más de 20 años de experiencia en el sector IT, vinculados a proyectos y servicios de gran envergadura en Data Centers, Ciberseguridad y Analytics.
+Posición estable, contrato indefinido.
+Modalidad de trabajo híbrida (Barcelona).
+Jornada intensiva los viernes e íntegros los meses de julio y agosto.
+¡Tu cumpleaños como día libre!
+Posibilidad de acogerse a planes de retribución flexible y descuentos: Restaurante Pass, Transporte Pass, WellHub, Seguro Médico Privado.
+Formación y certificación continuada en el puesto de trabajo, tanto a nivel tecnológico como de metodologías de trabajo en el sector IT.",https://es.linkedin.com/jobs/view/qa-engineer-at-logicalis-spain-4376060913?position=5&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=%2FYjvIvt3afbE0Rq%2Bk%2FyHBQ%3D%3D,"En Logicalis Spain buscamos un/a
+QA Engineer
+con experiencia en pruebas de software en entornos modernos y metodologías ágiles. La persona seleccionada participará activamente en equipos
+Agile/Scrum
+, siendo una pieza clave en la definición de criterios de aceptación, ejecución de pruebas, automatización y aseguramiento de la calidad a lo largo del ciclo de desarrollo.
+Responsabilidades
+Diseño y ejecución de pruebas funcionales, de regresión y de rendimiento.
+Automatización de pruebas con herramientas como Playwright, Cypress o Selenium.
+Validación de microservicios, APIs REST y arquitecturas basadas en eventos.
+Testing de sistemas basados en IA generativa, RAG, agentes conversacionales o workflows multiagente.
+Definición de criterios de aceptación y colaboración con equipos de desarrollo.
+Integración de pruebas en pipelines CI/CD.
+Análisis y gestión de defectos.
+Requisitos
+Experiencia en testing de aplicaciones y sistemas distribuidos.
+Conocimientos de Docker, Kubernetes y entornos cloud.
+Experiencia con sistemas de mensajería y flujos asincrónicos.
+Conocimientos en pruebas de carga y rendimiento (Locust, JMeter).
+Pensamiento analítico y atención al detalle.
+Buena comunicación y trabajo en equipo.
+Proactividad y orientación a la mejora continua.
+Qué ofrecemos:
+Logicalis Spain somos un grupo internacional con más de 20 años de experiencia en el sector IT, vinculados a proyectos y servicios de gran envergadura en Data Centers, Ciberseguridad y Analytics.
+Posición estable, contrato indefinido.
+Modalidad de trabajo híbrida (Barcelona).
+Jornada intensiva los viernes e íntegros los meses de julio y agosto.
+¡Tu cumpleaños como día libre!
+Posibilidad de acogerse a planes de retribución flexible y descuentos: Restaurante Pass, Transporte Pass, WellHub, Seguro Médico Privado.
+Formación y certificación continuada en el puesto de trabajo, tanto a nivel tecnológico como de metodologías de trabajo en el sector IT.
+Show more
+Show less"
+spain,Desarrollador/a RPG (Remoto),Katatek Group,https://es.linkedin.com/company/katatek-group?trk=public_jobs_jserp-result_job-search-card-subtitle,Spain,,,"Seguimos creciendo y buscamos un/a Desarrollador/a RPG para incorporarse a un proyecto estable dentro del sector tecnológico/salud.
+🎯 ¿Qué buscamos?
+Experiencia desarrollando en RPG (desde perfiles senior con amplia trayectoria hasta personas recién graduadas que hayan trabajado con este lenguaje).
+Actitud proactiva y capacidad de trabajo en equipo.
+Ganas de aportar, aprender y trabajar con un equipo que valora la experiencia y el talento sin importar la edad.
+🌍 Modalidad de trabajo
+100% remoto
+🛠️ Responsabilidades principales
+Desarrollo y mantenimiento en lenguaje RPG.
+Resolución de incidencias y mejoras evolutivas.
+Colaboración con el equipo técnico para asegurar la calidad del proyecto.
+Si te interesa, envíanos tu CV o contáctanos directamente por LinkedIn. ¡Nos encantará conocerte!",https://es.linkedin.com/jobs/view/desarrollador-a-rpg-remoto-at-katatek-group-4377171019?position=6&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=bhiuqHr2mn2VWNte8FW0ag%3D%3D,"Seguimos creciendo y buscamos un/a Desarrollador/a RPG para incorporarse a un proyecto estable dentro del sector tecnológico/salud.
+🎯 ¿Qué buscamos?
+Experiencia desarrollando en RPG (desde perfiles senior con amplia trayectoria hasta personas recién graduadas que hayan trabajado con este lenguaje).
+Actitud proactiva y capacidad de trabajo en equipo.
+Ganas de aportar, aprender y trabajar con un equipo que valora la experiencia y el talento sin importar la edad.
+🌍 Modalidad de trabajo
+100% remoto
+🛠️ Responsabilidades principales
+Desarrollo y mantenimiento en lenguaje RPG.
+Resolución de incidencias y mejoras evolutivas.
+Colaboración con el equipo técnico para asegurar la calidad del proyecto.
+Si te interesa, envíanos tu CV o contáctanos directamente por LinkedIn. ¡Nos encantará conocerte!
+Show more
+Show less"
+spain,Junior Data Analyst,Evolve,https://es.linkedin.com/school/evolve-es/?trk=public_jobs_jserp-result_job-search-card-subtitle,Spain,Be an early applicant,,"Descripción de la oferta
+En nuestro Programa Talento Joven buscamos personas recién tituladas en Formación Profesional de informática, análisis de datos o programación, con interés en adquirir experiencia y conocimientos prácticos en el campo del Data Science.
+Funciones:
+Participar en un programa formativo de 30 semanas enfocado en habilidades técnicas y prácticas de análisis de datos.
+Trabajar sobre proyectos reales y simulaciones del entorno empresarial, incluyendo retos de predicción, análisis exploratorio y visualización de datos.
+Colaborar y aprender directamente de profesionales en activo que te acompañarán durante tu evolución.
+Practicar con herramientas como Python, SQL, Pandas, Power BI, Jupyter Notebooks y Scikit-learn.
+Aplicar procedimientos y buenas prácticas de análisis en entornos controlados de laboratorio.
+Lo que ofrecemos:
+Plan formativo diseñado y actualizado según las necesidades reales del mercado laboral en data.
+Formación práctica, en grupo reducido, orientada al trabajo que se realiza en equipos de data science.
+Mentoring personalizado con especialistas del sector.
+Posibilidad real de entrevista para ofertas de empleo al finalizar el programa en empresas colaboradoras.
+Red de contacto con profesionales y exalumnos del programa.
+Requisitos:
+Ciclo Formativo de Grado Medio o Superior relacionado con informática, análisis de datos o programación.
+Interés por el análisis de datos y motivación para afrontar retos prácticos.
+Capacidad para trabajar en equipo, comunicarte y aprender en un entorno técnico.
+Tipo de
+puesto:
+Formativo/Prácticas
+Ubicación:
+Modalidad híbrida (presencial y online) según disponibilidad.
+Duración:
+30 semanas.
+Incorporación:
+Abril 2026.",https://es.linkedin.com/jobs/view/junior-data-analyst-at-evolve-4377437374?position=7&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=l7%2F8DYxfYwwZoXoDgdwuBA%3D%3D,"Descripción de la oferta
+En nuestro Programa Talento Joven buscamos personas recién tituladas en Formación Profesional de informática, análisis de datos o programación, con interés en adquirir experiencia y conocimientos prácticos en el campo del Data Science.
+Funciones:
+Participar en un programa formativo de 30 semanas enfocado en habilidades técnicas y prácticas de análisis de datos.
+Trabajar sobre proyectos reales y simulaciones del entorno empresarial, incluyendo retos de predicción, análisis exploratorio y visualización de datos.
+Colaborar y aprender directamente de profesionales en activo que te acompañarán durante tu evolución.
+Practicar con herramientas como Python, SQL, Pandas, Power BI, Jupyter Notebooks y Scikit-learn.
+Aplicar procedimientos y buenas prácticas de análisis en entornos controlados de laboratorio.
+Lo que ofrecemos:
+Plan formativo diseñado y actualizado según las necesidades reales del mercado laboral en data.
+Formación práctica, en grupo reducido, orientada al trabajo que se realiza en equipos de data science.
+Mentoring personalizado con especialistas del sector.
+Posibilidad real de entrevista para ofertas de empleo al finalizar el programa en empresas colaboradoras.
+Red de contacto con profesionales y exalumnos del programa.
+Requisitos:
+Ciclo Formativo de Grado Medio o Superior relacionado con informática, análisis de datos o programación.
+Interés por el análisis de datos y motivación para afrontar retos prácticos.
+Capacidad para trabajar en equipo, comunicarte y aprender en un entorno técnico.
+Tipo de
+puesto:
+Formativo/Prácticas
+Ubicación:
+Modalidad híbrida (presencial y online) según disponibilidad.
+Duración:
+30 semanas.
+Incorporación:
+Abril 2026.
+Show more
+Show less"
+spain,Data Analyst (Remote),Constructor,https://www.linkedin.com/company/constructor-io?trk=public_jobs_jserp-result_job-search-card-subtitle,Spain,Be an early applicant,,"About Us
+Constructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personalization capabilities to power everything from search itself to recommendations to shopping agents. Engineering is by far our largest department, and we've built our proprietary engine to be the best on the market, having never lost an A/B test to a competitive technology. We're passionate about maintaining this and work on the bleeding edge of AI to do so.
+Out of necessity, our engine is built for extreme scale and powers over 1 billion queries every day across 150 languages and roughly 100 countries. It is used by some of the biggest ecommerce companies in the world like Sephora, Under Armour, and Petco.
+We're a passionate team who love solving problems and want to make our customers' and coworkers' lives better. We value empathy, openness, curiosity, continuous improvement, and are excited by metrics that matter. We believe that empowering everyone in a company to do what they do best can lead to great things.
+Constructor is a U.S. based company that has been in the market since 2019. It was founded by Eli Finkelshteyn and Dan McCormick who still lead the company today.
+About The Role
+We are hiring Data Analysts to work across multiple teams at Constructor, including Data Science Integrations, Prospect Data Science Integrations, Ranking, Recommendations, and AI Shopping Agent.
+In this role, you will work at the intersection of data, product, and machine learning. You will analyze user behavior, design and evaluate experiments, define metrics, and generate insights that directly influence product decisions and business outcomes.
+You will collaborate closely with engineers, data scientists, product managers, and business stakeholders, helping translate data into actionable improvements across our platform.
+What You Will Do
+Analyze user behavior and large-scale datasets to identify patterns, issues, and opportunities for improvement
+Design, run, and analyze A/B tests to evaluate product changes and measure impact on key business metrics
+Define and validate metrics that reflect both user experience and business outcomes
+Build dashboards, reports, and data tools to support decision-making across teams
+Partner with customers, engineering, product, and business teams to translate insights into product improvements
+Work with SQL, Python, and distributed data systems to process and analyze large volumes of data
+Requirements
+We are looking for strong analytical thinkers who are comfortable working with data to drive product and business decisions.
+Core skills:
+Strong analytical skills and experience solving business problems using data
+Solid knowledge of SQL and experience working with large datasets
+Experience with Python for data analysis (pandas, NumPy, visualization libraries)
+Understanding of A/B testing and statistical concepts
+Product & data understanding:
+Understanding of machine learning pipelines, training data quality, and model evaluation
+Familiarity with ranking, recommendations, or search relevance is a plus
+Experience defining metrics, building metric trees, and analyzing product funnels
+Communication & ownership:
+Ability to communicate insights clearly and translate business needs into analytical solutions
+Comfortable working with multiple stakeholders in a fast-paced environment
+Preferred Skills:
+Experience in a customer-facing role
+Experience working in e-commerce or product analytics
+Benefits
+🧠 Work with smart and empathetic people who will help you grow and make a meaningful impact
+🎉 Regular team offsite events to connect and collaborate
+🌎 Fully remote team - choose where you live
+🏝️ Unlimited vacation time - we strongly encourage all of our employees take at least 3 weeks per year
+🛋️ Work from home stipend! We want you to have the resources you need to set up your home office
+💻 Apple laptops provided for new employees
+🧑‍🎓 Training and development budget for every employee, refreshed each year
+👪 Maternity & Paternity leave for qualified employees
+💵 Base salary: $80k-$120K USD, depending on knowledge, skills, experience, and interview results
+📈 Stock options - offered in addition to the base salary
+Diversity, Equity, and Inclusion at Constructor
+At Constructor.io we are committed to cultivating a work environment that is diverse, equitable, and inclusive. As an equal opportunity employer, we welcome individuals of all backgrounds and provide equal opportunities to all applicants regardless of their education, diversity of opinion, race, color, religion, gender, gender expression, sexual orientation, national origin, genetics, disability, age, veteran status or affiliation in any other protected group.
+Studies have shown that women and people of color may be less likely to apply for jobs unless they meet every one of the qualifications listed. Our primary interest is in finding the best candidate for the job. We encourage you to apply even if you don't meet all of our listed qualifications.",https://es.linkedin.com/jobs/view/data-analyst-remote-at-constructor-4377414175?position=8&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=LsuRb6SxaUv9lZ5OMLj3kA%3D%3D,"About Us
+Constructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personalization capabilities to power everything from search itself to recommendations to shopping agents. Engineering is by far our largest department, and we've built our proprietary engine to be the best on the market, having never lost an A/B test to a competitive technology. We're passionate about maintaining this and work on the bleeding edge of AI to do so.
+Out of necessity, our engine is built for extreme scale and powers over 1 billion queries every day across 150 languages and roughly 100 countries. It is used by some of the biggest ecommerce companies in the world like Sephora, Under Armour, and Petco.
+We're a passionate team who love solving problems and want to make our customers' and coworkers' lives better. We value empathy, openness, curiosity, continuous improvement, and are excited by metrics that matter. We believe that empowering everyone in a company to do what they do best can lead to great things.
+Constructor is a U.S. based company that has been in the market since 2019. It was founded by Eli Finkelshteyn and Dan McCormick who still lead the company today.
+About The Role
+We are hiring Data Analysts to work across multiple teams at Constructor, including Data Science Integrations, Prospect Data Science Integrations, Ranking, Recommendations, and AI Shopping Agent.
+In this role, you will work at the intersection of data, product, and machine learning. You will analyze user behavior, design and evaluate experiments, define metrics, and generate insights that directly influence product decisions and business outcomes.
+You will collaborate closely with engineers, data scientists, product managers, and business stakeholders, helping translate data into actionable improvements across our platform.
+What You Will Do
+Analyze user behavior and large-scale datasets to identify patterns, issues, and opportunities for improvement
+Design, run, and analyze A/B tests to evaluate product changes and measure impact on key business metrics
+Define and validate metrics that reflect both user experience and business outcomes
+Build dashboards, reports, and data tools to support decision-making across teams
+Partner with customers, engineering, product, and business teams to translate insights into product improvements
+Work with SQL, Python, and distributed data systems to process and analyze large volumes of data
+Requirements
+We are looking for strong analytical thinkers who are comfortable working with data to drive product and business decisions.
+Core skills:
+Strong analytical skills and experience solving business problems using data
+Solid knowledge of SQL and experience working with large datasets
+Experience with Python for data analysis (pandas, NumPy, visualization libraries)
+Understanding of A/B testing and statistical concepts
+Product & data understanding:
+Understanding of machine learning pipelines, training data quality, and model evaluation
+Familiarity with ranking, recommendations, or search relevance is a plus
+Experience defining metrics, building metric trees, and analyzing product funnels
+Communication & ownership:
+Ability to communicate insights clearly and translate business needs into analytical solutions
+Comfortable working with multiple stakeholders in a fast-paced environment
+Preferred Skills:
+Experience in a customer-facing role
+Experience working in e-commerce or product analytics
+Benefits
+🧠 Work with smart and empathetic people who will help you grow and make a meaningful impact
+🎉 Regular team offsite events to connect and collaborate
+🌎 Fully remote team - choose where you live
+🏝️ Unlimited vacation time - we strongly encourage all of our employees take at least 3 weeks per year
+🛋️ Work from home stipend! We want you to have the resources you need to set up your home office
+💻 Apple laptops provided for new employees
+🧑‍🎓 Training and development budget for every employee, refreshed each year
+👪 Maternity & Paternity leave for qualified employees
+💵 Base salary: $80k-$120K USD, depending on knowledge, skills, experience, and interview results
+📈 Stock options - offered in addition to the base salary
+Diversity, Equity, and Inclusion at Constructor
+At Constructor.io we are committed to cultivating a work environment that is diverse, equitable, and inclusive. As an equal opportunity employer, we welcome individuals of all backgrounds and provide equal opportunities to all applicants regardless of their education, diversity of opinion, race, color, religion, gender, gender expression, sexual orientation, national origin, genetics, disability, age, veteran status or affiliation in any other protected group.
+Studies have shown that women and people of color may be less likely to apply for jobs unless they meet every one of the qualifications listed. Our primary interest is in finding the best candidate for the job. We encourage you to apply even if you don't meet all of our listed qualifications.
+Show more
+Show less"
+spain,"UX Research Analyst (Spain, remote)",TransPerfect,https://www.linkedin.com/company/transperfect?trk=public_jobs_jserp-result_job-search-card-subtitle,"Barcelona, Catalonia, Spain",Be an early applicant,,"Work Location
+: Spain (Remote)
+Work Schedule
+: Monday – Friday during regular business hours; Full-time
+Engagement Model
+: Fixed-term Employment
+Estimated Start Date
+: Early March 2026
+Estimated Project Duration
+: 12 months (extension possible)
+DataForce by TransPerfect is seeking a
+UX Research Analyst
+to support ongoing user research initiatives for a temporary, full-time engagement. This role will focus primarily on operationalizing and managing questionnaire-based research studies, with an emphasis on Text-to-Speech (TTS) quality and potentially Translation quality.
+This is a hands-on, execution-focused role. The selected candidate will work closely with the client’s research team to administer studies, manage survey workflows, collect responses, and analyze results. The research design will be provided by the team; the analyst will ensure studies are properly built, launched, monitored, and analyzed.
+Role Summary
+The UX Research Analyst will be responsible for implementing and managing questionnaire-based research studies from setup through reporting. This includes building surveys in Qualtrics based on predefined designs, configuring workflows and logic, monitoring live studies, ensuring data quality, and analyzing results. The role requires strong organizational skills and attention to detail to ensure studies run smoothly and findings are accurately documented and communicated to stakeholders.
+Role Responsibilities
+Build, configure, and manage questionnaire-based research studies using Qualtrics (or similar tools).
+Implement complex survey logic and workflows based on predefined study designs
+Launch and monitor studies to ensure smooth execution and data quality
+Collect, organize, and validate survey responses
+Analyze study results and prepare structured summaries of findings
+Collaborate directly with client stakeholders (East Coast US) on study execution and reporting
+Maintain documentation and ensure research processes are organized and repeatable
+Role Requirements
+1–3 years of experience supporting or running questionnaire-based research studies
+Demonstrated experience collecting survey responses and analyzing results
+Strong working knowledge of Qualtrics, including survey logic and workflow configuration
+Fluent English (written and verbal)
+Strong organizational skills and attention to detail
+Ability to follow structured research plans and execute independently
+Preferred Role Requirements
+Experience in software, technology, or digital product environments
+Exposure to Text-to-Speech (TTS), voice testing, translation quality, or related domains
+Basic understanding of statistics for survey analysis
+Familiarity with user interfaces and UX concepts
+Experience working with distributed or international teams
+DataForce by TransPerfect is part of the TransPerfect family of companies, the world’s largest provider of language and technology solutions for global business, with offices in more than 100 cities worldwide.
+We offer high-quality data for Human-Machine Interaction to some of the most prestigious technology companies in the world. Our department focuses on gathering, enriching and processing data for Machine Learning in different AI domains.
+To learn more about DataForce please visit us at https://www.transperfect.com/dataforce.
+TransPerfect is an equal opportunity employer and committed to all recruitment processes and a workplace free from harassment, sexual harassment and discrimination. For more information on the TransPerfect Family of Companies, please visit our website at
+www.transperfect.com
+.",https://es.linkedin.com/jobs/view/ux-research-analyst-spain-remote-at-transperfect-4376092966?position=9&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=Y9OFVwsucIxIDL0q6kQ1AQ%3D%3D,"Work Location
+: Spain (Remote)
+Work Schedule
+: Monday – Friday during regular business hours; Full-time
+Engagement Model
+: Fixed-term Employment
+Estimated Start Date
+: Early March 2026
+Estimated Project Duration
+: 12 months (extension possible)
+DataForce by TransPerfect is seeking a
+UX Research Analyst
+to support ongoing user research initiatives for a temporary, full-time engagement. This role will focus primarily on operationalizing and managing questionnaire-based research studies, with an emphasis on Text-to-Speech (TTS) quality and potentially Translation quality.
+This is a hands-on, execution-focused role. The selected candidate will work closely with the client’s research team to administer studies, manage survey workflows, collect responses, and analyze results. The research design will be provided by the team; the analyst will ensure studies are properly built, launched, monitored, and analyzed.
+Role Summary
+The UX Research Analyst will be responsible for implementing and managing questionnaire-based research studies from setup through reporting. This includes building surveys in Qualtrics based on predefined designs, configuring workflows and logic, monitoring live studies, ensuring data quality, and analyzing results. The role requires strong organizational skills and attention to detail to ensure studies run smoothly and findings are accurately documented and communicated to stakeholders.
+Role Responsibilities
+Build, configure, and manage questionnaire-based research studies using Qualtrics (or similar tools).
+Implement complex survey logic and workflows based on predefined study designs
+Launch and monitor studies to ensure smooth execution and data quality
+Collect, organize, and validate survey responses
+Analyze study results and prepare structured summaries of findings
+Collaborate directly with client stakeholders (East Coast US) on study execution and reporting
+Maintain documentation and ensure research processes are organized and repeatable
+Role Requirements
+1–3 years of experience supporting or running questionnaire-based research studies
+Demonstrated experience collecting survey responses and analyzing results
+Strong working knowledge of Qualtrics, including survey logic and workflow configuration
+Fluent English (written and verbal)
+Strong organizational skills and attention to detail
+Ability to follow structured research plans and execute independently
+Preferred Role Requirements
+Experience in software, technology, or digital product environments
+Exposure to Text-to-Speech (TTS), voice testing, translation quality, or related domains
+Basic understanding of statistics for survey analysis
+Familiarity with user interfaces and UX concepts
+Experience working with distributed or international teams
+DataForce by TransPerfect is part of the TransPerfect family of companies, the world’s largest provider of language and technology solutions for global business, with offices in more than 100 cities worldwide.
+We offer high-quality data for Human-Machine Interaction to some of the most prestigious technology companies in the world. Our department focuses on gathering, enriching and processing data for Machine Learning in different AI domains.
+To learn more about DataForce please visit us at https://www.transperfect.com/dataforce.
+TransPerfect is an equal opportunity employer and committed to all recruitment processes and a workplace free from harassment, sexual harassment and discrimination. For more information on the TransPerfect Family of Companies, please visit our website at
+www.transperfect.com
+.
+Show more
+Show less"
+spain,Software Engineer - Data Infrastructure - Kafka,Canonical,https://uk.linkedin.com/company/canonical?trk=public_jobs_jserp-result_job-search-card-subtitle,"Valencia, Valencian Community, Spain",Be an early applicant,,"Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a managed solutions for a full range of data stores and data technologies, spanning from big data, through NoSQL, cache-layer capabilities, and analytics; all the way to structured SQL engines (similar to Amazon RDS approach).
+We are facing the interesting problem of fault-tolerant mission-critical distributed systems and intend to deliver the world's best automation solution for delivering managed data platforms.
+We are looking for candidates from junior to senior level with interests, experience and willingness to learn around Big Data technologies, such as distributed event-stores (Kafka) and parallel computing frameworks (Spark). Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations.
+Location: This role can be filled in European, Middle East and African time zones.
+What your day will look like
+The data platform team is responsible for the automation of data platform operations, with the mission of managing and integrating Big Data platforms at scale. This includes ensuring fault-tolerant replication, TLS, installation, backups and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical. This role is focused on the creation and automation of infrastructure features of data platforms, not analysing and/or processing the data in them.
+Collaborate proactively with a distributed team
+Write high-quality, idiomatic Python code to create new features
+Debug issues and interact with upstream communities publicly
+Work with helpful and talented engineers including experts in many fields
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel for 2 to 4 weeks per year for internal and external events
+What we are looking for in you
+Proven hands-on experience in software development using Python
+Proven hands-on experience in distributed systems, such as Kafka and Spark
+Have a Bachelor's or equivalent in Computer Science, STEM, or a similar degree
+Willingness to travel up to 4 times a year for internal events
+Additional Skills That You Might Also Bring
+You might also bring a subset of experience from the followings that can help Data Platform to achieve its challenging goals and determine the level we will consider you for:
+Experience operating and managing other data platform technologies, SQL (MySQL, PostgreSQL, Oracle, etc) and/or NoSQL (MongoDB, Redis, ElasticSearch, etc), similar to DBA level expertise
+Experience with Linux systems administration, package management, and infrastructure operations
+Experience with the public cloud or a private cloud solution like OpenStack
+Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.
+Fully remote working environment - we've been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues twice a year
+Priority Pass for travel and travel upgrades for long haul company events
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal-opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.",https://es.linkedin.com/jobs/view/software-engineer-data-infrastructure-kafka-at-canonical-4377101562?position=10&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=7asdPzOefl%2BCyU9%2FWJstUQ%3D%3D,"Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a managed solutions for a full range of data stores and data technologies, spanning from big data, through NoSQL, cache-layer capabilities, and analytics; all the way to structured SQL engines (similar to Amazon RDS approach).
+We are facing the interesting problem of fault-tolerant mission-critical distributed systems and intend to deliver the world's best automation solution for delivering managed data platforms.
+We are looking for candidates from junior to senior level with interests, experience and willingness to learn around Big Data technologies, such as distributed event-stores (Kafka) and parallel computing frameworks (Spark). Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations.
+Location: This role can be filled in European, Middle East and African time zones.
+What your day will look like
+The data platform team is responsible for the automation of data platform operations, with the mission of managing and integrating Big Data platforms at scale. This includes ensuring fault-tolerant replication, TLS, installation, backups and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical. This role is focused on the creation and automation of infrastructure features of data platforms, not analysing and/or processing the data in them.
+Collaborate proactively with a distributed team
+Write high-quality, idiomatic Python code to create new features
+Debug issues and interact with upstream communities publicly
+Work with helpful and talented engineers including experts in many fields
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel for 2 to 4 weeks per year for internal and external events
+What we are looking for in you
+Proven hands-on experience in software development using Python
+Proven hands-on experience in distributed systems, such as Kafka and Spark
+Have a Bachelor's or equivalent in Computer Science, STEM, or a similar degree
+Willingness to travel up to 4 times a year for internal events
+Additional Skills That You Might Also Bring
+You might also bring a subset of experience from the followings that can help Data Platform to achieve its challenging goals and determine the level we will consider you for:
+Experience operating and managing other data platform technologies, SQL (MySQL, PostgreSQL, Oracle, etc) and/or NoSQL (MongoDB, Redis, ElasticSearch, etc), similar to DBA level expertise
+Experience with Linux systems administration, package management, and infrastructure operations
+Experience with the public cloud or a private cloud solution like OpenStack
+Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.
+Fully remote working environment - we've been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues twice a year
+Priority Pass for travel and travel upgrades for long haul company events
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal-opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+Show more
+Show less"
+spain,Software Engineer - Data Infrastructure - Kafka,Canonical,https://uk.linkedin.com/company/canonical?trk=public_jobs_jserp-result_job-search-card-subtitle,"Salamanca, Castilla and Leon, Spain",Be an early applicant,,"Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a managed solutions for a full range of data stores and data technologies, spanning from big data, through NoSQL, cache-layer capabilities, and analytics; all the way to structured SQL engines (similar to Amazon RDS approach).
+We are facing the interesting problem of fault-tolerant mission-critical distributed systems and intend to deliver the world's best automation solution for delivering managed data platforms.
+We are looking for candidates from junior to senior level with interests, experience and willingness to learn around Big Data technologies, such as distributed event-stores (Kafka) and parallel computing frameworks (Spark). Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations.
+Location: This role can be filled in European, Middle East and African time zones.
+What your day will look like
+The data platform team is responsible for the automation of data platform operations, with the mission of managing and integrating Big Data platforms at scale. This includes ensuring fault-tolerant replication, TLS, installation, backups and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical. This role is focused on the creation and automation of infrastructure features of data platforms, not analysing and/or processing the data in them.
+Collaborate proactively with a distributed team
+Write high-quality, idiomatic Python code to create new features
+Debug issues and interact with upstream communities publicly
+Work with helpful and talented engineers including experts in many fields
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel for 2 to 4 weeks per year for internal and external events
+What we are looking for in you
+Proven hands-on experience in software development using Python
+Proven hands-on experience in distributed systems, such as Kafka and Spark
+Have a Bachelor's or equivalent in Computer Science, STEM, or a similar degree
+Willingness to travel up to 4 times a year for internal events
+Additional Skills That You Might Also Bring
+You might also bring a subset of experience from the followings that can help Data Platform to achieve its challenging goals and determine the level we will consider you for:
+Experience operating and managing other data platform technologies, SQL (MySQL, PostgreSQL, Oracle, etc) and/or NoSQL (MongoDB, Redis, ElasticSearch, etc), similar to DBA level expertise
+Experience with Linux systems administration, package management, and infrastructure operations
+Experience with the public cloud or a private cloud solution like OpenStack
+Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.
+Fully remote working environment - we've been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues twice a year
+Priority Pass for travel and travel upgrades for long haul company events
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal-opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.",https://es.linkedin.com/jobs/view/software-engineer-data-infrastructure-kafka-at-canonical-4377094924?position=11&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=cDlOZ1X1Yzu%2BhOd5bsGwqA%3D%3D,"Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a managed solutions for a full range of data stores and data technologies, spanning from big data, through NoSQL, cache-layer capabilities, and analytics; all the way to structured SQL engines (similar to Amazon RDS approach).
+We are facing the interesting problem of fault-tolerant mission-critical distributed systems and intend to deliver the world's best automation solution for delivering managed data platforms.
+We are looking for candidates from junior to senior level with interests, experience and willingness to learn around Big Data technologies, such as distributed event-stores (Kafka) and parallel computing frameworks (Spark). Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations.
+Location: This role can be filled in European, Middle East and African time zones.
+What your day will look like
+The data platform team is responsible for the automation of data platform operations, with the mission of managing and integrating Big Data platforms at scale. This includes ensuring fault-tolerant replication, TLS, installation, backups and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical. This role is focused on the creation and automation of infrastructure features of data platforms, not analysing and/or processing the data in them.
+Collaborate proactively with a distributed team
+Write high-quality, idiomatic Python code to create new features
+Debug issues and interact with upstream communities publicly
+Work with helpful and talented engineers including experts in many fields
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel for 2 to 4 weeks per year for internal and external events
+What we are looking for in you
+Proven hands-on experience in software development using Python
+Proven hands-on experience in distributed systems, such as Kafka and Spark
+Have a Bachelor's or equivalent in Computer Science, STEM, or a similar degree
+Willingness to travel up to 4 times a year for internal events
+Additional Skills That You Might Also Bring
+You might also bring a subset of experience from the followings that can help Data Platform to achieve its challenging goals and determine the level we will consider you for:
+Experience operating and managing other data platform technologies, SQL (MySQL, PostgreSQL, Oracle, etc) and/or NoSQL (MongoDB, Redis, ElasticSearch, etc), similar to DBA level expertise
+Experience with Linux systems administration, package management, and infrastructure operations
+Experience with the public cloud or a private cloud solution like OpenStack
+Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services
+What we offer you
+Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.
+In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.
+Fully remote working environment - we've been working remotely since 2004!
+Personal learning and development budget of 2,000USD per annum
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Parental Leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues twice a year
+Priority Pass for travel and travel upgrades for long haul company events
+About Canonical
+Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.
+Canonical has been a remote-first company since its inception in 2004. Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.
+Canonical is an equal-opportunity employer
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+Show more
+Show less"
+spain,"UX Research Analyst (Spain, remote)",TransPerfect,https://www.linkedin.com/company/transperfect?trk=public_jobs_jserp-result_job-search-card-subtitle,Spain,Be an early applicant,,"Work Location
+: Spain (Remote)
+Work Schedule
+: Monday – Friday during regular business hours; Full-time
+Engagement Model
+: Fixed-term Employment
+Estimated Start Date
+: Early March 2026
+Estimated Project Duration
+: 12 months (extension possible)
+DataForce by TransPerfect is seeking a
+UX Research Analyst
+to support ongoing user research initiatives for a temporary, full-time engagement. This role will focus primarily on operationalizing and managing questionnaire-based research studies, with an emphasis on Text-to-Speech (TTS) quality and potentially Translation quality.
+This is a hands-on, execution-focused role. The selected candidate will work closely with the client’s research team to administer studies, manage survey workflows, collect responses, and analyze results. The research design will be provided by the team; the analyst will ensure studies are properly built, launched, monitored, and analyzed.
+Role Summary
+The UX Research Analyst will be responsible for implementing and managing questionnaire-based research studies from setup through reporting. This includes building surveys in Qualtrics based on predefined designs, configuring workflows and logic, monitoring live studies, ensuring data quality, and analyzing results. The role requires strong organizational skills and attention to detail to ensure studies run smoothly and findings are accurately documented and communicated to stakeholders.
+Role Responsibilities
+Build, configure, and manage questionnaire-based research studies using Qualtrics (or similar tools).
+Implement complex survey logic and workflows based on predefined study designs
+Launch and monitor studies to ensure smooth execution and data quality
+Collect, organize, and validate survey responses
+Analyze study results and prepare structured summaries of findings
+Collaborate directly with client stakeholders (East Coast US) on study execution and reporting
+Maintain documentation and ensure research processes are organized and repeatable
+Role Requirements
+1–3 years of experience supporting or running questionnaire-based research studies
+Demonstrated experience collecting survey responses and analyzing results
+Strong working knowledge of Qualtrics, including survey logic and workflow configuration
+Fluent English (written and verbal)
+Strong organizational skills and attention to detail
+Ability to follow structured research plans and execute independently
+Preferred Role Requirements
+Experience in software, technology, or digital product environments
+Exposure to Text-to-Speech (TTS), voice testing, translation quality, or related domains
+Basic understanding of statistics for survey analysis
+Familiarity with user interfaces and UX concepts
+Experience working with distributed or international teams
+DataForce by TransPerfect is part of the TransPerfect family of companies, the world’s largest provider of language and technology solutions for global business, with offices in more than 100 cities worldwide.
+We offer high-quality data for Human-Machine Interaction to some of the most prestigious technology companies in the world. Our department focuses on gathering, enriching and processing data for Machine Learning in different AI domains.
+To learn more about DataForce please visit us at https://www.transperfect.com/dataforce.
+TransPerfect is an equal opportunity employer and committed to all recruitment processes and a workplace free from harassment, sexual harassment and discrimination. For more information on the TransPerfect Family of Companies, please visit our website at
+www.transperfect.com
+.",https://es.linkedin.com/jobs/view/ux-research-analyst-spain-remote-at-transperfect-4376099482?position=12&pageNum=0&refId=0HrqIZIBGJ%2FYhkR3eIyMeQ%3D%3D&trackingId=vDe%2Fy7PYDmDrHOGLBczCVQ%3D%3D,"Work Location
+: Spain (Remote)
+Work Schedule
+: Monday – Friday during regular business hours; Full-time
+Engagement Model
+: Fixed-term Employment
+Estimated Start Date
+: Early March 2026
+Estimated Project Duration
+: 12 months (extension possible)
+DataForce by TransPerfect is seeking a
+UX Research Analyst
+to support ongoing user research initiatives for a temporary, full-time engagement. This role will focus primarily on operationalizing and managing questionnaire-based research studies, with an emphasis on Text-to-Speech (TTS) quality and potentially Translation quality.
+This is a hands-on, execution-focused role. The selected candidate will work closely with the client’s research team to administer studies, manage survey workflows, collect responses, and analyze results. The research design will be provided by the team; the analyst will ensure studies are properly built, launched, monitored, and analyzed.
+Role Summary
+The UX Research Analyst will be responsible for implementing and managing questionnaire-based research studies from setup through reporting. This includes building surveys in Qualtrics based on predefined designs, configuring workflows and logic, monitoring live studies, ensuring data quality, and analyzing results. The role requires strong organizational skills and attention to detail to ensure studies run smoothly and findings are accurately documented and communicated to stakeholders.
+Role Responsibilities
+Build, configure, and manage questionnaire-based research studies using Qualtrics (or similar tools).
+Implement complex survey logic and workflows based on predefined study designs
+Launch and monitor studies to ensure smooth execution and data quality
+Collect, organize, and validate survey responses
+Analyze study results and prepare structured summaries of findings
+Collaborate directly with client stakeholders (East Coast US) on study execution and reporting
+Maintain documentation and ensure research processes are organized and repeatable
+Role Requirements
+1–3 years of experience supporting or running questionnaire-based research studies
+Demonstrated experience collecting survey responses and analyzing results
+Strong working knowledge of Qualtrics, including survey logic and workflow configuration
+Fluent English (written and verbal)
+Strong organizational skills and attention to detail
+Ability to follow structured research plans and execute independently
+Preferred Role Requirements
+Experience in software, technology, or digital product environments
+Exposure to Text-to-Speech (TTS), voice testing, translation quality, or related domains
+Basic understanding of statistics for survey analysis
+Familiarity with user interfaces and UX concepts
+Experience working with distributed or international teams
+DataForce by TransPerfect is part of the TransPerfect family of companies, the world’s largest provider of language and technology solutions for global business, with offices in more than 100 cities worldwide.
+We offer high-quality data for Human-Machine Interaction to some of the most prestigious technology companies in the world. Our department focuses on gathering, enriching and processing data for Machine Learning in different AI domains.
+To learn more about DataForce please visit us at https://www.transperfect.com/dataforce.
+TransPerfect is an equal opportunity employer and committed to all recruitment processes and a workplace free from harassment, sexual harassment and discrimination. For more information on the TransPerfect Family of Companies, please visit our website at
+www.transperfect.com
+.
+Show more
+Show less"
