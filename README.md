@@ -1,25 +1,13 @@
 AI Job Application Generator
 
-An end-to-end pipeline that collects job postings, analyzes job market trends, and automatically generates tailored CVs and cover letters using a Large Language Model (LLM).
+Automates the job application workflow by combining web scraping, data analysis, and generative AI.
 
-The project combines web scraping, exploratory data analysis, prompt engineering, and a Streamlit application to streamline the job application process.
+The system collects job postings, analyzes job market trends, and generates tailored CVs and cover letters for specific job descriptions.
 
-Project Architecture
-LinkedIn Web Scraper
-        │
-        ▼
-   Job Dataset
-        │
-        ▼
-Exploratory Data Analysis
-        │
-        ▼
-LLM CV + Cover Letter Generator
-        │
-        ▼
- Streamlit Web Application
+Project Pipeline
+LinkedIn Scraper → Job Dataset → EDA → LLM Generator → Streamlit App
 
-The pipeline transforms job postings into automated, tailored job applications.
+The project moves from data collection → analysis → automated application generation.
 
 Features
 
@@ -31,211 +19,118 @@ Generate tailored CVs
 
 Generate personalized cover letters
 
-Web application interface using Streamlit
+Streamlit interface for easy usage
 
-Generate applications for multiple jobs simultaneously
+Generate applications for multiple jobs
 
 Project Structure
 project/
 │
-├── webscraping_linkedin.ipynb
-│   LinkedIn job scraper
-│
-├── EDA.ipynb
-│   Exploratory data analysis of scraped jobs
-│
-├── LLM_cover+CV.ipynb
-│   LLM prompt system for generating CVs and cover letters
-│
-├── app.py
-│   Streamlit application interface
-│
-├── data/
-│   scraped job datasets
-│
-├── requirements.txt
-│   project dependencies
-│
+├── webscraping_linkedin.ipynb   # job scraper
+├── EDA.ipynb                    # data analysis
+├── LLM_cover+CV.ipynb           # LLM prompt system
+├── app.py                       # Streamlit application
+├── data/                        # scraped datasets
 └── README.md
-1 LinkedIn Job Scraper
+Components
+Web Scraper
 
-The scraper collects job postings from LinkedIn using Selenium and BeautifulSoup.
+Collects LinkedIn job postings using Selenium.
 
-Collected information
+Extracted information:
 
-Job title
+job title
 
-Company name
+company name
 
-Location
+location
 
-Job description
+job description
 
-Company description
+company description
 
-Filters
+Exploratory Data Analysis
 
-Job title (Data Scientist)
+Analyzes trends in the job dataset.
 
-Location
+Examples:
 
-Experience level
+job distribution by location
 
-Remote work
+remote vs on-site roles
 
-Recent postings
+company hiring patterns
 
-The scraper stores results in a structured dataset (CSV).
+keyword frequency in job descriptions
 
-2 Exploratory Data Analysis
+LLM Application Generator
 
-EDA is used to explore patterns in the job market.
+Uses a Large Language Model to generate job applications.
 
-Analysis includes
+Inputs:
 
-Job distribution by location
+master CV
 
-Remote vs on-site roles
+job description
 
-Company hiring patterns
+company information
 
-Job description length
+Outputs:
 
-Keyword and skill patterns
+tailored CV
 
-Tools
+personalized cover letter
 
-Pandas
+Streamlit Application
 
-Matplotlib
+A web interface that allows users to:
 
-Seaborn
+paste their CV
 
-The analysis helps understand demand trends in the data science job market.
+enter job information
 
-3 LLM CV & Cover Letter Generator
+generate applications automatically
 
-This component uses a Large Language Model to generate tailored job applications.
-
-Inputs
-
-Master CV
-
-Job description
-
-Company information
-
-Prompt Design
-
-The prompt instructs the model to:
-
-Rewrite the CV to match the job
-
-Write a professional cover letter
-
-Mirror terminology from the job posting
-
-Highlight relevant skills
-
-Avoid inventing experience
-
-Output
-
-For each job posting the system generates:
-
-Tailored CV
-
-Personalized cover letter
-
-4 Streamlit Application
-
-A Streamlit web application makes the system easy to use.
-
-Instead of running notebooks, users interact with a simple interface.
-
-Interface Features
-
-Paste a master CV
-
-Enter job information
-
-Generate applications for multiple jobs
-
-View generated CV and cover letter
-
-Download generated applications
-
-This turns the project into a practical application instead of just a script.
+download results
 
 Installation
-1 Clone the repository
+
+Clone the repository
+
 git clone https://github.com/yourusername/ai-job-application-generator.git
 cd ai-job-application-generator
-2 Install dependencies
+
+Install dependencies
+
 pip install -r requirements.txt
-3 Add OpenAI API key
 
-Create a .env file:
+Create .env
 
-OPENAI_API_KEY=your_api_key_here
-Running the Application
-
-Run the Streamlit app:
-
+OPENAI_API_KEY=your_api_key
+Run the App
 streamlit run app.py
-
-The app will open in your browser.
-
 Example Workflow
 
-Scrape job postings from LinkedIn
+Scrape LinkedIn job postings
 
-Explore job market patterns using EDA
+Analyze the dataset with EDA
 
-Paste your master CV into the Streamlit app
+Paste your CV into the Streamlit app
 
 Enter job descriptions
 
-Generate tailored CVs and cover letters
-
-Future Improvements
-
-Skill extraction using NLP
-
-Resume scoring against job descriptions
-
-PDF export of applications
-
-Automatic job scraping pipeline
-
-Integration with job boards
+Generate tailored applications
 
 Technologies
 
-Programming
-
 Python
-
-Web Scraping
-
 Selenium
-
 BeautifulSoup
-
-Data Analysis
-
 Pandas
-
 Matplotlib
-
-Seaborn
-
-AI
-
 OpenAI API
-
-Prompt Engineering
-
-Application
-
 Streamlit
+
+Author
+
+Gail Marechal
